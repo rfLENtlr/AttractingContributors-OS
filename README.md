@@ -29,7 +29,7 @@ Please enter Vim in the list below.
 5. Visual Studio Code
 6. Atom
 7. Vim
-8.
+8. Vim
 9.
 10.
 11.
