@@ -31,6 +31,6 @@ Please enter Vim in the list below.
 7. Vim
 8. Vim
 9. Vim
-10.
+10. Vim
 11.
 
