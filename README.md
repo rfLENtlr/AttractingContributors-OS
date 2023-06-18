@@ -30,7 +30,7 @@ Please enter Vim in the list below.
 6. Atom
 7. Vim
 8. Vim
-9.
+9. Vim
 10.
 11.
 
