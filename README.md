@@ -27,8 +27,8 @@ Please enter Vim in the list below.
 3. VScode
 4. VSCode
 5. Visual Studio Code
-6.Atom
-7.
+6. Atom
+7. Vim
 8.
 9.
 10.
