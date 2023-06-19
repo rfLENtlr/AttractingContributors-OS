@@ -23,7 +23,7 @@ Please recommend your favorite beer.🍺 </br>
 1. Asahi Super Dry
 2. Premium Malts
 3. Carlsberg
-4.
+4. Corona
 5.
 6.
 7.
