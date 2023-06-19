@@ -22,7 +22,7 @@ Please recommend your favorite beer.🍺 </br>
 # List of 🍺
 1. Asahi Super Dry
 2. Premium Malts
-3.
+3. Corona
 4.
 5.
 6.
