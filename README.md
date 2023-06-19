@@ -20,8 +20,8 @@ Please recommend your favorite beer.🍺 </br>
 あなたの好きなビールを紹介してください🍺
 
 # List of 🍺
-1.
-2.
+1. Asahi Super Dry
+2. Premium Malts
 3.
 4.
 5.
