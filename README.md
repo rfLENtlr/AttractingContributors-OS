@@ -19,7 +19,7 @@ To complete the assignment, please do the following:
 Please recommend your favorite beer.🍺 </br>
 あなたの好きなビールを紹介してください🍺
 
-# List of Hobby
+# List of 🍺
 1.
 2.
 3.
