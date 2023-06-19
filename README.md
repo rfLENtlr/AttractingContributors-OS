@@ -22,8 +22,8 @@ Please recommend your favorite beer.🍺 </br>
 # List of 🍺
 1. Asahi Super Dry
 2. Premium Malts
-3. Corona
-4.
+3. Carlsberg
+4. Corona
 5.
 6.
 7.
