@@ -25,7 +25,7 @@ Please recommend your favorite beer.🍺 </br>
 3. Carlsberg
 4. Corona
 5. Ebisu
-6.
+6. Golden Ale
 7.
 8.
 9.
