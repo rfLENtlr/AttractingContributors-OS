@@ -19,6 +19,8 @@ To complete the assignment, please do the following:
 Please recommend your favorite beer.🍺 </br>
 あなたの好きなビールを紹介してください🍺
 
+If you don't like beer, other alcoholic drinks are ok.
+
 # List of 🍺
 1. Asahi Super Dry
 2. Premium Malts
