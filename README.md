@@ -32,3 +32,4 @@ Would you add it to the list below?<br/>
 - Raspbian
 - Windows XP
 - MacOS
+- Windows
