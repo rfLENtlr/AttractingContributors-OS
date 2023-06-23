@@ -33,3 +33,4 @@ Would you add it to the list below?<br/>
 - Windows XP
 - MacOS
 - Windows
+- MacOS
