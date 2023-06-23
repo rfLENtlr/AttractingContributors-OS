@@ -31,4 +31,4 @@ If you don't like beer, other alcoholic drinks are ok.
 7. Guinness
 8. Sapporo Black Label
 9. Suntory Horoyoi Peach
-10.
+10. Kirin Ichiban Shibori
