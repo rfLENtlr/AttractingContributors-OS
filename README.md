@@ -34,3 +34,4 @@ Would you add it to the list below?<br/>
 - MacOS
 - Windows
 - MacOS
+- Windows
